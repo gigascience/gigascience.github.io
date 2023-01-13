@@ -2145,3 +2145,7 @@ table.dataTable thead > tr > td.sorting {
 .uploader {
   margin-top: 2em;
 }
+
+li {
+    line-height: 1.5;
+}
